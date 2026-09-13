@@ -1,0 +1,8 @@
+{
+  "name": "ReelSense - Instagram Watch History & Digest",
+  "description": "Analyze what kind of content you watch on Instagram with deep category breakdowns, viewing patterns, and AI-powered consumption summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
